@@ -45,14 +45,26 @@ p{
 	position: absolute;
 	right: 135px;
 }
+ section{
+ 	position: absolute;
+ 	top:350px;
+ 	left: 240px;
+ }
 
-section{
-	margin-left: 250px;
-	margin-top: 50px;
-	width: 100%;
-}
+ .img1{
+ 	float: left;
+ }
 
-div{
-	margin-top:1%;
-	width: 100%;
-}
+ .img2{
+ 	float: left;
+ }
+ .img3{
+ 	float: left;
+ }
+ .img4{
+ 	float: left;
+ }
+
+ div{
+ 	margin-left: 20px;
+ }
