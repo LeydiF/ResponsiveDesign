@@ -1,0 +1,26 @@
+
+h1{
+	background:#000;
+	height: 90px;
+
+}
+p{
+
+	position: absolute;
+	right: 5px;
+	left: 10px;
+	margin-top: 250px;
+}
+
+section{
+	margin-top: 1480px;
+	margin-left: 0px;
+}
+
+.main-menu ul li{
+	background:#000;
+}
+
+div{
+	width: 100%;
+}
