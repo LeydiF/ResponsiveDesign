@@ -13,10 +13,14 @@ p{
 }
 
 section{
-	margin-top: 1480px;
-	margin-left: 0px;
+	margin-top: 1300px;
+	margin-left: -200px;
 }
 
 .main-menu ul li{
 	background:#000;
+}
+
+div{
+	margin-left: 0px;
 }
